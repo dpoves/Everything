@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Everything in one place](README.md)
-* [Test](test.md)
+* [Test from GitBook](test.md)
 
 ## Performance
 

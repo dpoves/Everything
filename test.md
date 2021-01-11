@@ -1,14 +1,14 @@
 ---
-description: A description.
+description: A description edited from GitBook.
 ---
 
-<<<<<<< HEAD
-# I am editing this from Visual Studio Code
-=======
-# Test
->>>>>>> 8db5979bfc953a0c512ab3b49f1aa64a1879ff29
+# Test from GitBook
 
-## Getting Super Powers
+## I am editing this from Visual Studio Code
+
+## Test
+
+### Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
