@@ -1,8 +1,8 @@
 ---
-description: This is a test of template page.
+description: A description.
 ---
 
-# I am editing this from vs code
+# I am editing this from Visual Studio Code
 
 ## Getting Super Powers
 
