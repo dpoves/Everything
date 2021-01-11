@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Everything in one place](README.md)
+* [Test](test.md)
 
 ## Performance
 
