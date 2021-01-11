@@ -1,3 +1,7 @@
+---
+description: This is a test of template page.
+---
+
 # Test
 
 ## Getting Super Powers
