@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Everything in one place](README.md)
 
 ## Performance
 
