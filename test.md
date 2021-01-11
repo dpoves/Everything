@@ -2,7 +2,7 @@
 description: This is a test of template page.
 ---
 
-# I am editing this from vscode
+# I am editing this from vs code
 
 ## Getting Super Powers
 
