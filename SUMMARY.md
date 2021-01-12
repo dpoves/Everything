@@ -9,5 +9,10 @@
 
 ## Storage
 
+* [Untitled](storage/untitled-1.md)
 * [Storage Section](storage/untitled.md)
+
+## The ZFS filesystem
+
+* [Untitled](the-zfs-filesystem/untitled.md)
 
